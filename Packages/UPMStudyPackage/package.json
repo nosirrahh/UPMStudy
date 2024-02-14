@@ -1,0 +1,13 @@
+{
+  "name": "nosirrahh.upmstudypackage",
+  "version": "1.0.0",
+  "displayName": "UPMStudyPackage",
+  "unity": "2021.4",
+  "keywords": [],
+  "author": {
+    "name": "Harrison Dias",
+    "email": "nosirrahh@gmail.com",
+    "url": ""
+  },
+  "type": "tool"
+}
