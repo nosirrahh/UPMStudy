@@ -143,8 +143,8 @@
       },
       "url": "https://packages.unity.com"
     },
-    "nosirrahh.upmstudy": {
-      "version": "file:nosirrahh.upmstudy",
+    "nosirrahh.upmstudypackage": {
+      "version": "file:UPMStudyPackage",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
