@@ -1,9 +1,9 @@
 {
   "name": "com.nosirrahh.upmstudypackage",
-  "displayName": "Nosirrahh-UPMStudyPackage",
+  "displayName": "UPMStudyPackage",
   "version": "1.0.0",
   "unity": "2021.4",
-  "description": "...",
+  "description": "Um projeto para estudar como é feita a publicação de um pacote para ser utilizado através do Unity Package Manager.",
   "keywords": [
     "",
     ""
@@ -20,7 +20,7 @@
   "samples": [
     {
       "displayName": "Sample",
-      "description": "",
+      "description": "Apenas uma cena configurada para utilizar o script 'HelloWorld.cs'.",
       "path": "Samples~/Sample"
     }
   ],
