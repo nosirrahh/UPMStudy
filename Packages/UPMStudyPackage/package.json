@@ -1,13 +1,32 @@
 {
-  "name": "nosirrahh.upmstudypackage",
+  "name": "com.nosirrahh.upmstudypackage",
+  "displayName": "Nosirrahh-UPMStudyPackage",
   "version": "1.0.0",
-  "displayName": "UPMStudyPackage",
   "unity": "2021.4",
-  "keywords": [],
+  "description": "...",
+  "keywords": [
+    "",
+    ""
+  ],
+  "dependencies": {},
+  "license": "",
+  "homepage": "https://github.com/nosirrahh/UPMStudyPackage#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nosirrahh/UPMStudyPackage.git"
+  },
+  "documentationUrl": "https://github.com/nosirrahh/UPMStudyPackage#readme",
+  "changelogUrl": "https://github.com/nosirrahh/UPMStudyPackage/CHANGELOG.md",
+  "samples": [
+    {
+      "displayName": "Sample",
+      "description": "",
+      "path": "Samples~/Sample"
+    }
+  ],
   "author": {
     "name": "Harrison Dias",
     "email": "nosirrahh@gmail.com",
-    "url": ""
-  },
-  "type": "tool"
+    "url": "https://github.com/nosirrahh/"
+  }
 }
