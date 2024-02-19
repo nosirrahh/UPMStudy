@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("upd",["Function"],[["Update",,[["Nosirrahh.UPMStudyPackage.HelloWorld",,,,0,"File:Runtime/Scripts/HelloWorld.cs:Nosirrahh.UPMStudyPackage.HelloWorld.Update","CSharpClass:Nosirrahh.UPMStudyPackage.HelloWorld:Update"]]]]);
